@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrack Root Daemon & Telemetry",
+  "description": "Autonomous root-level device tracking & telemetry framework featuring offline caching, boot recovery, encrypted SMS fallback, and real-time Google Maps telemetry with PostgreSQL route persistence.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
